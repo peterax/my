@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SequenceMain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SequencesGroups>
+    <SequencesGroup>
+      <SequenceList>
+        <Sequences>
+          <SequenceItems>
+            <SequenceItem>
+              <ItemType>System</ItemType>
+              <GroupName />
+              <LineName />
+              <DoLockToSpecifiedLine>false</DoLockToSpecifiedLine>
+              <DoExitOnFail>false</DoExitOnFail>
+              <EqName />
+              <ActionEventIndex>0</ActionEventIndex>
+              <Timeout>-1</Timeout>
+              <Parameter>1000</Parameter>
+              <DoLog>false</DoLog>
+              <DoExitOnOk>false</DoExitOnOk>
+              <Comment></Comment>
+              <IsTimeoutInMs>true</IsTimeoutInMs>
+              <IsAction>true</IsAction>
+              <GuiProperty>None</GuiProperty>
+              <DoInvertResult>false</DoInvertResult>
+              <ItemTag />
+              <ClientGroupOverride />
+            </SequenceItem>
+          </SequenceItems>
+          <Disabled>false</Disabled>
+          <Comment>Sleep here</Comment>
+          <GoOnAllOk>0</GoOnAllOk>
+          <GoOnSomeOk>0</GoOnSomeOk>
+          <GoOnAllFail>0</GoOnAllFail>
+          <MaxAttempts>-1</MaxAttempts>
+          <GoOnMaxAttempts>-1</GoOnMaxAttempts>
+          <MaxAttemptsView />
+          <SequenceAlias />
+        </Sequences>
+        <Sequences>
+          <SequenceItems>
+            <SequenceItem>
+              <ItemType>System</ItemType>
+              <GroupName />
+              <LineName />
+              <DoLockToSpecifiedLine>false</DoLockToSpecifiedLine>
+              <DoExitOnFail>false</DoExitOnFail>
+              <EqName />
+              <ActionEventIndex>0</ActionEventIndex>
+              <Timeout>-1</Timeout>
+              <Parameter>1000</Parameter>
+              <DoLog>false</DoLog>
+              <DoExitOnOk>false</DoExitOnOk>
+              <Comment>Hej1</Comment>
+              <IsTimeoutInMs>true</IsTimeoutInMs>
+              <IsAction>true</IsAction>
+              <GuiProperty>None</GuiProperty>
+              <DoInvertResult>false</DoInvertResult>
+              <ItemTag />
+              <ClientGroupOverride />
+            </SequenceItem>
+          </SequenceItems>
+          <Disabled>false</Disabled>
+          <Comment>Step1</Comment>
+          <GoOnAllOk>2</GoOnAllOk>
+          <GoOnSomeOk>1</GoOnSomeOk>
+          <GoOnAllFail>1</GoOnAllFail>
+          <MaxAttempts>-1</MaxAttempts>
+          <GoOnMaxAttempts>-1</GoOnMaxAttempts>
+          <MaxAttemptsView />
+          <SequenceAlias />
+        </Sequences>
+        <Sequences>
+          <SequenceItems>
+            <SequenceItem>
+              <ItemType>System</ItemType>
+              <GroupName />
+              <LineName />
+              <DoLockToSpecifiedLine>false</DoLockToSpecifiedLine>
+              <DoExitOnFail>false</DoExitOnFail>
+              <EqName />
+              <ActionEventIndex>0</ActionEventIndex>
+              <Timeout>-1</Timeout>
+              <Parameter>1000</Parameter>
+              <DoLog>false</DoLog>
+              <DoExitOnOk>false</DoExitOnOk>
+              <Comment />
+              <IsTimeoutInMs>true</IsTimeoutInMs>
+              <IsAction>true</IsAction>
+              <GuiProperty>None</GuiProperty>
+              <DoInvertResult>false</DoInvertResult>
+              <ItemTag />
+              <ClientGroupOverride />
+            </SequenceItem>
+          </SequenceItems>
+          <Disabled>false</Disabled>
+          <Comment>Step2</Comment>
+          <GoOnAllOk>3</GoOnAllOk>
+          <GoOnSomeOk>2</GoOnSomeOk>
+          <GoOnAllFail>2</GoOnAllFail>
+          <MaxAttempts>-1</MaxAttempts>
+          <GoOnMaxAttempts>-1</GoOnMaxAttempts>
+          <MaxAttemptsView />
+          <SequenceAlias />
+        </Sequences>
+        <Sequences>
+          <SequenceItems>
+            <SequenceItem>
+              <ItemType>System</ItemType>
+              <GroupName />
+              <LineName />
+              <DoLockToSpecifiedLine>false</DoLockToSpecifiedLine>
+              <DoExitOnFail>false</DoExitOnFail>
+              <EqName />
+              <ActionEventIndex>0</ActionEventIndex>
+              <Timeout>-1</Timeout>
+              <Parameter>1000</Parameter>
+              <DoLog>false</DoLog>
+              <DoExitOnOk>false</DoExitOnOk>
+              <Comment />
+              <IsTimeoutInMs>true</IsTimeoutInMs>
+              <IsAction>true</IsAction>
+              <GuiProperty>None</GuiProperty>
+              <DoInvertResult>false</DoInvertResult>
+              <ItemTag />
+              <ClientGroupOverride />
+            </SequenceItem>
+          </SequenceItems>
+          <Disabled>false</Disabled>
+          <Comment>Step3</Comment>
+          <GoOnAllOk>0</GoOnAllOk>
+          <GoOnSomeOk>0</GoOnSomeOk>
+          <GoOnAllFail>0</GoOnAllFail>
+          <MaxAttempts>-1</MaxAttempts>
+          <GoOnMaxAttempts>-1</GoOnMaxAttempts>
+          <MaxAttemptsView />
+          <SequenceAlias />
+        </Sequences>
+      </SequenceList>
+      <SequenceGroupName>Seqence1</SequenceGroupName>
+      <ProductionGroupName />
+      <ProductionLineName />
+      <ClientGroup />
+      <Comment />
+      <GoOnStart>-1</GoOnStart>
+      <GoOnStop>-1</GoOnStop>
+      <IsActive>false</IsActive>
+      <CloneTag />
+      <SleepBetweenSteps>5</SleepBetweenSteps>
+      <RunAsSingleThread>false</RunAsSingleThread>
+      <IsChanged>false</IsChanged>
+    </SequencesGroup>
+  </SequencesGroups>
+  <IsChange>true</IsChange>
+  <SequenceItemTags />
+</SequenceMain>
